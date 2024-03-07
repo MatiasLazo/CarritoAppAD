@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674845314010",
+    "project_id": "carrito-7092d",
+    "storage_bucket": "carrito-7092d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674845314010:android:dddd4429fcabdca9ac8ee3",
+        "android_client_info": {
+          "package_name": "com.teknos.matias.carritoappad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674845314010-ucrlue2g48n7cce2nc2jnmcsnef6l60e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8lKxFV9EMiHxdoFPO3xCxrPe2_iYG2Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674845314010-ucrlue2g48n7cce2nc2jnmcsnef6l60e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
